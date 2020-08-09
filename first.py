@@ -11,6 +11,6 @@ for b in line:
    if b.isalpha () : 
                    alphacount += 1 
 print ("Number of uppercase letters:", uppercount) 
-print ("Number jiojof lowercase letters: ", lowercount) 
-print ("Num alphabets: ", alphacount) 
-print ("Number kllof digits: ", digitcount)
+print ("Number of lowercase letters: ", lowercount) 
+print ("Number of  alphabets: ", alphacount) 
+print ("Number of digits: ", digitcount)
