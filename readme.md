@@ -1,1 +1,1 @@
-this is divyanshu.101 usin python in github.
+these python filea are my sollution for hackerrank problems
