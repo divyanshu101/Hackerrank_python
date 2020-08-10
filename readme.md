@@ -1,1 +1,1 @@
-these python filea are my sollution for hackerrank problems
+these python files are my sollution for hackerrank problems
